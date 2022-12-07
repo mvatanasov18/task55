@@ -26,8 +26,12 @@ html {
   flex-flow: column;
   width: 65%;
 }
+.sidebar{
+  width: 280px;
+}
 
 .container {
   display: flex;
   margin: 0;
+  padding: 10px;
 }
